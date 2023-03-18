@@ -1,0 +1,17 @@
+.con{
+    width: 10000px;
+    height: 1000px;
+    background-color: aqua;
+}
+.con h1{
+    color: purple;
+    background-color: black;
+    position: absolute;
+    top: 10px;
+}
+.l{
+    left: 600px;
+}
+.m{
+    left: 1200px;
+}
